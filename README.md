@@ -10,6 +10,6 @@
 
 ##### Adding some base conditions. (if the collection is empty throw an error and quite the whole function).
 
-##### const --> variable decleration which cause an error on the loop.
+##### you defined the variable loop with const which will cause an error on the second iteration, so I replaced any const in loop with let ( only variable loop ).
 
 ##### I found that you are using a wait in a place that won't has any effect so i deleted it.
