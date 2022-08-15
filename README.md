@@ -2,7 +2,7 @@
 
 ### I supposed that you are using the native mongodb drive not using any ODM packages like mongoose. so instead of create method I used insertOne.
 
-### I established a description to function
+### I established a description to function ( string documentation )
 
 ### refactor the code by:
 
